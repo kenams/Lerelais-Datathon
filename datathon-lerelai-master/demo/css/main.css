@@ -1,0 +1,136 @@
+@import url(http://fonts.googleapis.com/css?family=Lora:400italic|Roboto:500,300);
+
+* {
+	padding: 0;
+	margin: 0;
+	color: #333;
+	box-sizing: padding-box;
+	background-size: 32px 32px;
+	background-repeat: no-repeat;
+}
+
+body {
+	font-family: 'Roboto', Arial;
+	font-style: normal;
+	font-weight: 300;
+	background-color: #ccc;
+	padding: 5px;
+}
+
+h1, h2, h3 {
+	font-weight: 500;
+	font-style: normal;
+	margin-bottom: 0.2em;
+}
+
+h2 {
+	font-size: 18px;
+	margin: 10px;
+}
+
+ul {
+	padding-left: 10px;
+}
+
+li {
+	line-height: 2em;
+	margin-left: 20px;
+}
+
+img {
+	border: 0;
+	height: 32px;
+	width: 32px;
+}
+
+img.imgFull {
+	display: block;
+	margin: 0 auto;
+	height: 470px;
+	width: auto;
+}
+
+img.imgFull2 {
+	display: block;
+	margin: 0 auto;
+	height: auto;
+	width: 340px;
+}
+
+img.imgFull300 {
+	display: block;
+	margin: 0 auto;
+	height: 300px;
+	width: auto;
+}
+
+#prevPage {
+	position:fixed;
+	bottom:50%;
+	left:0;
+	padding: 10px 5px;
+	border: 0;
+}
+
+#nextPage {
+	position:fixed;
+	bottom:50%;
+	right:0;
+	padding: 10px 5px;
+	border: 0;
+}
+
+.ref {
+	font-family: 'Lora' !important;
+	font-style: italic;
+	font-weight: 400;
+}
+
+.lnkFiche {
+	display: block;
+	border: 2px solid #555;
+	line-height: 52px;
+	padding: 0 10px;
+	background-position: right 10px center;
+	margin: 10px 0;
+}
+
+.lnkNav {
+	display: inline-block;
+	line-height: 52px;
+	padding-left: 48px;
+	padding-right: 10px;
+	background-position: left 5px center;
+}
+
+.lnkSubsc {
+	padding: 5px 10px;
+	background-position: right 10px center;
+	margin: 10px 0;
+	background-image: url("/img/check-no.png");
+	background-size: 18px 18px;
+}
+
+.lnkSubsc.checked {
+	background-image: url("/img/check-yes.png");
+}
+
+.iconAdd {
+	background-image: url("/img/icon-add.png");
+}
+
+.iconAgri {
+	background-image: url("/img/icon-agri.png");
+}
+
+.iconEnergy {
+	background-image: url("/img/icon-energy.png");
+}
+
+.iconWater {
+	background-image: url("/img/icon-water.png");
+}
+
+section {
+	height: 490px; /* based on iframe height from kindle.html */
+}

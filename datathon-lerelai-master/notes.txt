@@ -1,0 +1,65 @@
+Le Relai
+
+idées de sujets:
+    - comment construire une éolienne
+    - irrigation de cultures
+    - etc...
+
+stats sénégal:
+- http://www.d4d.orange.com/fr/partenaires-ressources/ressources/ressources-des-partenaires
+- http://www.ansd.sn/pop/presentation_SESR.html
+- http://www.ansd.sn/publications_BADIS.html
+- http://www.d4d.orange.com/fr/partenaires-ressources/ressources/bases-de-donnees-de-l-ANSD
+
+références:
+- The children of remote Kalikuppam, aged ten to fourteen years of age, apparently didn’t know what this strange beast called a computer was, let alone the internet. They couldn't speak any English and lived amidst some of the worst health, nutrition and sanitation conditions in the world. After Mitra left, they were left to contemplate this strange box-like object that had suddenly occupied a spot in their village square.
+    http://www.zdnet.com/article/how-semi-literate-children-in-a-remote-indian-village-taught-themselves-molecular-biology/
+- http://m.scidev.net/afrique-sub-saharienne/energie/actualites/deux-femmes-ing-nieures-solaires-apportent-la-lumi-re-au-cameroun.html
+- http://m.20minutes.fr/societe/891761-inde-institut-apprend-femmes-analphabetes-devenir-ingenieurs
+- " densité moyenne nationale de 69habitants au Km², Dakar est aussi la région où la concentration du peuplement est plus accentuéeavec 5 735 habitants au km² contre seulement 9 habitants au km² à Kédougou " (http://www.ansd.sn/ressources/RGPHAE-2013/ressources/doc/pdf/ANSD_resume_RGPHAE_final.pdf)
+- " la répartition des individus âgés d’au moins 6 ans indique que neufindividus sur dix n’ont pas reçu de formation (89,5%) " (http://www.ansd.sn/ressources/RGPHAE-2013/ressources/doc/pdf/ANSD_resume_RGPHAE_final.pdf)
+
+feedback pré-pitch:
+    - Ideasbox
+    - Quizzr
+    - Elian: Api egalité homme-femme, détection sexe à partir de prenoms du monde entier. Startup bricks, Namsor.com (api)
+
+sujet kalilou+adrien:
+    - 5 techniques de base pour porter secours (avec images): http://www.gemaprevention.com/cinq-techniques-de-base-pour-porter-secours
+    - schema prévention ebola: http://www.excelafrica.com/fr/2014/03/28/ebola-gestes-de-prevention-conseilles-aux-communautes-par-long-plan-sur-le-terrain/
+    - Carte eaux/forets par région: http://www.eaux-forets.sn/index.php/progede/finish/7/362.html
+    - Carte du réseau d'aires protégées du Sénégal: http://www.environnement.gouv.sn/?q=parcs-nationaux-et-r%C3%A9serves
+    - obtenir un permis de chasse: http://www.eaux-forets.sn/index.php/a-votre-service/chasse.html
+    - contrats de culture: http://www.eaux-forets.sn/index.php/a-votre-service/contrats-de-cultures.html
+    - rapport "POLITIQUE FORESTIEREDU SENEGAL2005-2025": http://www.eaux-forets.sn/images/docs/Politique-forestiere-2005_2025-Annexes.pdf
+    - références code et lois:
+        - 2014: politique forestière: http://www.environnement.gouv.sn/sites/default/files/documentheque/PFS_version_17_juin_2014_corrig%C3%A9e.pdf (trouvée via: http://www.environnement.gouv.sn/?q=documenth%C3%A8que)
+        - code forestier (2010): http://www.eaux-forets.sn/images/docs/Code-forestier.pdf
+        - code de l'environnement: http://www.eaux-forets.sn/images/docs/code-environnement.pdf
+        - code de l'eau (1981): http://www.eaux-forets.sn/images/docs/code-de-eau.pdf
+        - code chasse / protection faune (1986): http://www.eaux-forets.sn/images/docs/code%20de%20la%20chasse%20et%20de%20la%20protection%20de%20la%20faune.pdf
+        - autres lois et décrets: http://www.gouv.sn/-Lois-et-decrets-.html + journal officiel: http://www.jo.gouv.sn/ 
+
+LOL lorem ipsum: http://www.environnement.gouv.sn/?q=candidature-du-s%C3%A9n%C3%A9gal-pour-lorganisation-de-la-cop-22 :-D
+
+"Ebola: Comment éviter la maladie et couper la transmission : gardez votre distance de personnes malades ;si vous touchez une personne fiévreuse, lavez-vous les mains ou les autres parties du corps ayant été encontact avec la personne. Lors d’un enterrement, gardez votre distance avec les autres personnes et ledéfunt. La maladie ne se transmet pas par la simple présence d’une personne malade au travail, l’école oudans les transports publiques.Sachez aussi que les billets de banque et les pièces de monnaie ne transmettent pas la maladie, ni lestomates, les aliments en général ou encore les plats individuels de nourriture. Idem, pas de transmissiondu virus Ebola par les moustiques ou la nage en piscine.Evitez aussi de faire de la fièvre pour d’autres causes, afin d’éviter une angoisse inutile : moustiquaire etlotion anti-moustiques pour éviter le paludisme, nourriture et maison propres pour éviter les diarrhées. Envous lavant les mains et gardant un peu plus vos distances, vous attraperez moins facilement des grippeset des rhumes.Vous avez de la fièvre… est-ce Ebola ? 37.8°C ce n’est pas Ebola. La fièvre due au virus est élevée,38.5°C et plus. Mais par prudence, les points de contrôle posent plus de questions à partir de 38°C. Lethermomètre indique 39.2°C? Faites un test pour le paludisme d’abord et demandez-vous si dans lesderniers 21 jours vous avez été proche, pris soin ou touché une personne malade ou morte. Si vous avezde la fièvre élevée et une histoire de contacts, mieux vaut consulter immédiatement tout en avertissant lepersonnel soignant des risques éventuels parce qu’un traitement précoce augmente les chances de survieen cas d’Ebola.Nous savons que le personnel médical est parmi le premier à être exposé puisqu’il examine les malades.Que faites-vous, ne pas aller à l’hôpital pour votre douleur au ventre par peur de contamination? Allez-vousprendre ce risque, et s’il s’agit d’un paludisme grave? Je vous conseille d’aller à l’hôpital ou chez lemédecin en demand
+ant au personnel soignant de mettre des gants et des masques pour éviter toutetransmission… envers vous. Mais sachez qu’une toux ne transmet pas Ebola, ce sont les liquidescorporels, la salive, le sang, le sperme, tout liquide corporel infectieux (à propos, le préservatif, ça protègeaussi pendant les rapports sexuels).Et si vous avez un malade à la maison ? C’est difficile, parce qu’on aime les siens, on veut les toucher pourles réconforter, pour poser des tissus humides pour diminuer la fièvre. Prenez bien soin des vôtres, donnezde l’amour et du confort mais s’il s’agit d’une maladie infectieuse: fièvre, vomissements, diarrhée, gardezvos distances. Vous ne voulez pas non plus attraper le rhume ou la rougeole de votre enfant. Vous savezcomment éviter les risques de transmission, lavez-vous les mains souvent. S’il y a raison de craindre Ebola(symptômes + historique de contacts), le plus tôt vous consultez, le mieux c’est.Quel est le Numéro vert au Sénégal? Le 800 00 50 50. Voilà, j’espère que ceci vous donne les élémentspour mieux comprendre, pour éviter la panique qui fait plus de mal que de bien - et pour adopter le boncomportement et prendre les mesures nécessaires en attendent que la vague passe.Si vous ne vous sentez pas à l’aise ou en sécurité, n’hésitez pas à en parler librement au chef de bureau,au chef de l’administration ou à un des médecins du bureau" (cf http://www.au-senegal.com/IMG/pdf/140830_echo_ebola_jcastilla_topo_utile.pdf)
+
+" Résultat, certains résidents ont modifié leurs habitudes, comme Mamadou Camara, habitant de Yoro Foula. « Avant quand j’allais au champ, je pouvais manger sans me laver les mains, maintenant j’évite de la faire, j’essaye de rendre propre d’abord mon environnement et éviter de manger les animaux qu’on nous demande d’éviter ».
+Certains habitants affirment éviter de fréquenter les marchés hebdomadaires qui attirent de nombreux commerçants de la Gambie, de la Guinée et de Sierra Leone. " (cf http://www.rfi.fr/afrique/20140820-sant%C3%A9-ebola-senegal-tente-prevenir-une-contamination-virus/)
+
+Fabriquer son éolienne
+http://education.francetv.fr/decouverte-des-sciences/cp/video/fabriquer-une-eolienne-a-la-maison (vidéo)
+http://www.onpeutlefaire.com/construire-une-eolienne-a-axe-vertical (schémas)
+http://fr.wikihow.com/construire-une-%C3%A9olienne (images synthèse + texte)
+http://www.reporterre.net/L-eolienne-sous-licence-libre-qu (projet ulule)
+
+Schémas et visuels EBOLA
+https://www.facebook.com/SenStopEbola/photos_stream
+Numéro d'urgence
+http://www.rts.sn/articles-de-presse/societe/alerte-ebola-les-numeros-durgence.html
+
+Coûts tablettes sources
+
+http://android-france.fr/2011/10/05/datawind-aakash-la-tablette-indienne-a-moins-de-50-dollars/
+http://www.itespresso.fr/le-cout-de-fabrication-dun-ipad-de-base-revient-a-229-dollars-33635.html
